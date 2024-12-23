@@ -1,0 +1,58 @@
+[
+    {
+        "Sr. No": "1",
+        "TM Name": "ZERODHA BROKING\nLIMITED",
+        "Client Code": "HG9197",
+        "Buy/ Sell": "B",
+        "Name of the Security": "Adani Green Energy Limited",
+        "Symbol": "ADANIGREEN",
+        "Series": "EQ",
+        "Trade No": "2024052702171381",
+        "Trade Time": "09:58:42 AM",
+        "Quantity": "10",
+        "Price (Rs.)": "1899.10",
+        "Traded Value (Rs.)": "18991.00"
+    },
+    {
+        "Sr. No": "2",
+        "TM Name": "ZERODHA BROKING\nLIMITED",
+        "Client Code": "HG9197",
+        "Buy/ Sell": "B",
+        "Name of the Security": "Adani Green Energy Limited",
+        "Symbol": "ADANIGREEN",
+        "Series": "EQ",
+        "Trade No": "2024052702892640",
+        "Trade Time": "10:25:59 AM",
+        "Quantity": "20",
+        "Price (Rs.)": "1898.30",
+        "Traded Value (Rs.)": "37966.00"
+    },
+    {
+        "Sr. No": "3",
+        "TM Name": "ZERODHA BROKING\nLIMITED",
+        "Client Code": "HG9197",
+        "Buy/ Sell": "B",
+        "Name of the Security": "Adani Green Energy Limited",
+        "Symbol": "ADANIGREEN",
+        "Series": "EQ",
+        "Trade No": "2024052702907963",
+        "Trade Time": "10:26:50 AM",
+        "Quantity": "2",
+        "Price (Rs.)": "1898.95",
+        "Traded Value (Rs.)": "3797.90"
+    },
+    {
+        "Sr. No": "4",
+        "TM Name": "ZERODHA BROKING\nLIMITED",
+        "Client Code": "HG9197",
+        "Buy/ Sell": "S",
+        "Name of the Security": "Adani Green Energy Limited",
+        "Symbol": "ADANIGREEN",
+        "Series": "EQ",
+        "Trade No": "2024052708351485",
+        "Trade Time": "03:20:54 PM",
+        "Quantity": "32",
+        "Price (Rs.)": "1926.30",
+        "Traded Value (Rs.)": "61641.60"
+    }
+]
