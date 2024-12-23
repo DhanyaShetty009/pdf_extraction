@@ -1,0 +1,194 @@
+[
+  {
+    "Margin Available": [
+      {
+        "Segment": "EQ",
+        "Trade Date": "21/05/2024",
+        "Funds - Annex A": "NA",
+        "Value of Securities - Annex B": "NA",
+        "Any other approved form of Margins (EPI) - Annex C": "NA",
+        "Total Margin Available": "NA"
+      },
+      {
+        "Segment": "FO",
+        "Trade Date": "21/05/2024",
+        "Funds - Annex A": "NA",
+        "Value of Securities - Annex B": "NA",
+        "Any other approved form of Margins (EPI) - Annex C": "NA",
+        "Total Margin Available": "NA"
+      },
+      {
+        "Segment": "CDS",
+        "Trade Date": "21/05/2024",
+        "Funds - Annex A": "NA",
+        "Value of Securities - Annex B": "NA",
+        "Any other approved form of Margins (EPI) - Annex C": "NA",
+        "Total Margin Available": "NA"
+      },
+      {
+        "Segment": "SLB",
+        "Trade Date": "21/05/2024",
+        "Funds - Annex A": "NA",
+        "Value of Securities - Annex B": "NA",
+        "Any other approved form of Margins (EPI) - Annex C": "NA",
+        "Total Margin Available": "NA"
+      },
+      {
+        "Segment": "Sub Total",
+        "Trade Date": "21/05/2024",
+        "Funds - Annex A": "21/05/2024",
+        "Value of Securities - Annex B": "40810.09",
+        "Any other approved form of Margins (EPI) - Annex C": "0.00",
+        "Total Margin Available": "0.00"
+      }
+    ]
+  },
+  {
+    "Margin Required": [
+      {
+        "Segment": "EQ",
+        "Trade Date": "21/05/2024",
+        "Upfront Margin Required": "7900.22",
+        "Consolidated Crystallized Obligation Required": "19.90",
+        "Delivery Margin Required": "NA",
+        "Total EOD Margin required": "7920.12",
+        "Total Peak Margins required": "3882.60"
+      },
+      {
+        "Segment": "FO",
+        "Trade Date": "21/05/2024",
+        "Upfront Margin Required": "0.00",
+        "Consolidated Crystallized Obligation Required": "0.00",
+        "Delivery Margin Required": "0.00",
+        "Total EOD Margin required": "0.00",
+        "Total Peak Margins required": "0.00"
+      },
+      {
+        "Segment": "CDS",
+        "Trade Date": "21/05/2024",
+        "Upfront Margin Required": "0.00",
+        "Consolidated Crystallized Obligation Required": "0.00",
+        "Delivery Margin Required": "NA",
+        "Total EOD Margin required": "0.00",
+        "Total Peak Margins required": "0.00"
+      },
+      {
+        "Segment": "SLB",
+        "Trade Date": "21/05/2024",
+        "Upfront Margin Required": "NA",
+        "Consolidated Crystallized Obligation Required": "NA",
+        "Delivery Margin Required": "0.00",
+        "Total EOD Margin required": "NA",
+        "Total Peak Margins required": "NA"
+      },
+      {
+        "Segment": "Sub Total",
+        "Trade Date": "21/05/2024",
+        "Upfront Margin Required": "21/05/2024",
+        "Consolidated Crystallized Obligation Required": "7900.22",
+        "Delivery Margin Required": "19.90",
+        "Total EOD Margin required": "0.00",
+        "Total Peak Margins required": "7920.12"
+      }
+    ]
+  },
+  {
+    "Margin Collected": [
+      {
+        "Segment": "EQ",
+        "Trade Date": "21/05/2024",
+        "Upfront Margin Collected": "7900.22",
+        "Consolidated Crystallized Obligation Collected": "19.90",
+        "Delivery Margin Collected": "NA",
+        "Total EOD Margin Collected": "7920.12",
+        "EOD Excess/Short": "0.00",
+        "Total Peak Margin Collected": "3882.60",
+        "Peak Excess/Shortfall": "0.00"
+      },
+      {
+        "Segment": "FO",
+        "Trade Date": "21/05/2024",
+        "Upfront Margin Collected": "0.00",
+        "Consolidated Crystallized Obligation Collected": "0.00",
+        "Delivery Margin Collected": "0.00",
+        "Total EOD Margin Collected": "0.00",
+        "EOD Excess/Short": "0.00",
+        "Total Peak Margin Collected": "0.00",
+        "Peak Excess/Shortfall": "0.00"
+      },
+      {
+        "Segment": "CDS",
+        "Trade Date": "21/05/2024",
+        "Upfront Margin Collected": "0.00",
+        "Consolidated Crystallized Obligation Collected": "0.00",
+        "Delivery Margin Collected": "NA",
+        "Total EOD Margin Collected": "0.00",
+        "EOD Excess/Short": "0.00",
+        "Total Peak Margin Collected": "0.00",
+        "Peak Excess/Shortfall": "0.00"
+      },
+      {
+        "Segment": "SLB",
+        "Trade Date": "21/05/2024",
+        "Upfront Margin Collected": "NA",
+        "Consolidated Crystallized Obligation Collected": "NA",
+        "Delivery Margin Collected": "NA",
+        "Total EOD Margin Collected": "NA",
+        "EOD Excess/Short": "NA",
+        "Total Peak Margin Collected": "0.00",
+        "Peak Excess/Shortfall": "NA"
+      },
+      {
+        "Segment": "Sub Total",
+        "Trade Date": "21/05/2024",
+        "Upfront Margin Collected": "21/05/2024",
+        "Consolidated Crystallized Obligation Collected": "7900.22",
+        "Delivery Margin Collected": "19.90",
+        "Total EOD Margin Collected": "0.00",
+        "EOD Excess/Short": "7920.12",
+        "Total Peak Margin Collected": "32889.97",
+        "Peak Excess/Shortfall": "3882.60"
+      }
+    ]
+  },
+  {
+    "Annex A: FundsExplained": {
+      "Closing Balance": "1261.28",
+      "Unsettled Credit(-)": "0.00",
+      "Unsettled Debts(+)": "39548.81",
+      "Funds Available": "40810.09"
+    }
+  },
+  {
+    "Annex B: Pledging Stocks": [
+      {
+        "Trading Symbol": "NA",
+        "ISIN": "NA",
+        "QTY": "NA",
+        "Value(Post Haircut)": "NA"
+      }
+    ]
+  },
+  {
+    "Annex C: Value of EPI": [
+      {
+        "Trading Symbol": "NA",
+        "ISIN": "NA",
+        "QTY": "NA",
+        "Value(Post Haircut)": "NA"
+      }
+    ]
+  },
+  {
+    "Segment": "EQ",
+    "Indicative Peak Snapshot Time": "03:20 PM"
+  },
+  {
+    "Segment": "FO",
+    "Indicative Peak Snapshot Time": "NA"
+  },
+  {
+    "Segment": "CDS",
+    "Indicative Peak Snapshot Time": "NA"
+  }
+]
