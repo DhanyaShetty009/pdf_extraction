@@ -1,0 +1,148 @@
+{
+    "Equities": [
+        {
+            "Stock": [
+                {
+                    "Order No.": "1716282182621660007",
+                    "Order Time": "15:16:12",
+                    "Trade No.": "14502400",
+                    "Trade Time": "15:16:12",
+                    "Security / Contract Description": "INFY-A/INE009A01021",
+                    "Buy(B)/ Sell(S)": "B",
+                    "Exchange": "BSE",
+                    "Quantity": "10",
+                    "Gross Rate/Trade Price Per Unit(Rs)": "1434.85",
+                    "Brokerage per Unit (Rs)": "NA",
+                    "Net Rate per Unit (Rs)": "1434.85",
+                    "Closing Rate per Unit (only for Derivatives) (Rs)": "NA",
+                    "Net Total (Before Levies) (Rs)": "(14348.50)",
+                    "Remarks": "NA"
+                },
+                {
+                    "Order No.": "1716282182621660007",
+                    "Order Time": "15:16:12",
+                    "Trade No.": "14502600",
+                    "Trade Time": "15:16:12",
+                    "Security / Contract Description": "INFY-A/INE009A01021",
+                    "Buy(B)/ Sell(S)": "B",
+                    "Exchange": "BSE",
+                    "Quantity": "4",
+                    "Gross Rate/Trade Price Per Unit(Rs)": "1434.90",
+                    "Brokerage per Unit (Rs)": "NA",
+                    "Net Rate per Unit (Rs)": "1434.90",
+                    "Closing Rate per Unit (only for Derivatives) (Rs)": "NA",
+                    "Net Total (Before Levies) (Rs)": "(5739.60)",
+                    "Remarks": "NA"
+                }
+            ],
+            "Sub Total": {
+                "quantity": 14,
+                "Net Total (Before Levies) (Rs)": "(20088.10)"
+            }
+        },
+        {
+            "Stock": [
+                {
+                    "Order No.": "1300000041907333",
+                    "Order Time": "15:08:16",
+                    "Trade No.": "70015818",
+                    "Trade Time": "15:08:16",
+                    "Security / Contract Description": "TVSMOTOR-\nEQ/INE494B01023",
+                    "Buy(B)/ Sell(S)": "B",
+                    "Exchange": "NSE",
+                    "Quantity": "9",
+                    "Gross Rate/Trade Price Per Unit(Rs)": "2157.00",
+                    "Brokerage per Unit (Rs)": "NA",
+                    "Net Rate per Unit (Rs)": "2157.00",
+                    "Closing Rate per Unit (only for Derivatives) (Rs)": "NA",
+                    "Net Total (Before Levies) (Rs)": "(19413.00)",
+                    "Remarks": "NA"
+                }
+            ],
+            "Sub Total": {
+                "quantity": 14,
+                "Net Total (Before Levies) (Rs)": "(19413.00)"
+            }
+        }
+    ],
+    "Net Total": "(39501.10)",
+    "Tax Invoice": [
+        {
+            "Pay in/Pay out obligation": {
+                "Equity": "(39501.10)",
+                "Futures and Options": "0.00"
+            },
+            "NET TOTAL": "(39501.10)"
+        },
+        {
+            "Taxable value of Supply (Brokerage)": {
+                "Equity": "(0.01)",
+                "Futures and Options": "NA"
+            },
+            "NET TOTAL": "(0.01)"
+        },
+        {
+            "Exchange transaction charges": {
+                "Equity": "(1.40)",
+                "Futures and Options": "NA"
+            },
+            "NET TOTAL": "(1.40)"
+        },
+        {
+            "Clearing charges": {
+                "Equity": "NA",
+                "Futures and Options": "NA"
+            },
+            "NET TOTAL": "NA"
+        },
+        {
+            "CGST (@9% of Brok, SEBI, Trans & Clearing Charges)": {
+                "Equity": "(0.13)",
+                "Futures and Options": "NA"
+            },
+            "NET TOTAL": "(0.13)"
+        },
+        {
+            "SGST (@9% of Brok, SEBI, Trans & Clearing Charges)": {
+                "Equity": "(0.13)",
+                "Futures and Options": "NA"
+            },
+            "NET TOTAL": "(0.13)"
+        },
+        {
+            "IGST (@18% of Brok, SEBI, Trans & Clearing Charges)": {
+                "Equity": "NA",
+                "Futures and Options": "NA"
+            },
+            "NET TOTAL": "NA"
+        },
+        {
+            "Securities transaction tax": {
+                "Equity": "(40.00)",
+                "Futures and Options": "NA"
+            },
+            "NET TOTAL": "(40.00)"
+        },
+        {
+            "SEBI turnover fees": {
+                "Equity": "(0.04)",
+                "Futures and Options": "NA"
+            },
+            "NET TOTAL": "(0.04)"
+        },
+        {
+            "Stamp duty": {
+                "Equity": "(6.00)",
+                "Futures and Options": "NA"
+            },
+            "NET TOTAL": "(6.00)"
+        },
+        {
+            "Net amount receivable/(payable by client)": {
+                "Equity": "(39548.81)",
+                "Futures and Options": "0.00"
+            },
+            "NET TOTAL": "(39548.81)"
+        }
+    ]
+}
