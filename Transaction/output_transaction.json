@@ -1,0 +1,697 @@
+{
+    "Statement of Account": "2024-04-01 to 2024-04-30",
+    "Transactions for given Period": [
+        {
+            "ISIN": "INE742F01042",
+            "Symbol": "ADANI PORTS -EQ 2/-",
+            "Opening balance": "0.000",
+            "Closing balance": "6.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024067",
+                    "Buy/Cr": "2.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "2.000"
+                },
+                {
+                    "Date": "2024-04-15",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024070",
+                    "Buy/Cr": "3.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "5.000"
+                },
+                {
+                    "Date": "2024-04-23",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024075",
+                    "Buy/Cr": "1.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "6.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INE053A01029",
+            "Symbol": "INDIAN HOTEL-EQ RE 1",
+            "Opening balance": "0.000",
+            "Closing balance": "4.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024067",
+                    "Buy/Cr": "4.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "4.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INE009A01021",
+            "Symbol": "INFOSYS LTD-EQ 5/-",
+            "Opening balance": "0.000",
+            "Closing balance": "4.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024067",
+                    "Buy/Cr": "1.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "1.000"
+                },
+                {
+                    "Date": "2024-04-12",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024069",
+                    "Buy/Cr": "1.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "2.000"
+                },
+                {
+                    "Date": "2024-04-15",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024070",
+                    "Buy/Cr": "1.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "3.000"
+                },
+                {
+                    "Date": "2024-04-18",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024072",
+                    "Buy/Cr": "1.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "4.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INE045B01015",
+            "Symbol": "NELCO LTD EQUITY",
+            "Opening balance": "0.000",
+            "Closing balance": "0.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-04",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024064",
+                    "Buy/Cr": "10.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "10.000"
+                },
+                {
+                    "Date": "2024-04-15",
+                    "Transaction Description": "Early Pay-in 1208160015841564 1100001100019678 2024071",
+                    "Buy/Cr": "10.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "10.000"
+                },
+                {
+                    "Date": "2024-04-16",
+                    "Transaction Description": "Early Pay-in 1208160015841564 1100001100019678 2024071",
+                    "Buy/Cr": "0.000",
+                    "Sell/Dr": "10.000",
+                    "Balance": "10.000"
+                },
+                {
+                    "Date": "2024-04-16",
+                    "Transaction Description": "Early Pay-in 1208160015841564 1100001100019678 2024071",
+                    "Buy/Cr": "0.000",
+                    "Sell/Dr": "10.000",
+                    "Balance": "0.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INF204KB17I5",
+            "Symbol": "NIP ETF GOLD BEES",
+            "Opening balance": "38.000",
+            "Closing balance": "62.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-15",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024070",
+                    "Buy/Cr": "24.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "62.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INF204KB14I2",
+            "Symbol": "NIP ETF NIFTY50 BEES",
+            "Opening balance": "",
+            "Closing balance": "10.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-15",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024070",
+                    "Buy/Cr": "3.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "10.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INF732E01037",
+            "Symbol": "NIP ETNF1D RTLIQBEES",
+            "Opening balance": "1.213",
+            "Closing balance": "0.216",
+            "Transactions": [
+                {
+                    "Date": "2024-04-01",
+                    "Transaction Description": "CA 1208160015841564",
+                    "Buy/Cr": "0.001",
+                    "Sell/Dr": "0.000",
+                    "Balance": "1.214"
+                },
+                {
+                    "Date": "2024-04-08",
+                    "Transaction Description": "Early Pay-in 1208160015841564 1100001100019678 2024067",
+                    "Buy/Cr": "1.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "1.214"
+                },
+                {
+                    "Date": "2024-04-08",
+                    "Transaction Description": "CA 1208160015841564",
+                    "Buy/Cr": "0.001",
+                    "Sell/Dr": "0.000",
+                    "Balance": "1.215"
+                },
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Early Pay-in 1208160015841564 1100001100019678 2024067",
+                    "Buy/Cr": "0.000",
+                    "Sell/Dr": "1.000",
+                    "Balance": "1.215"
+                },
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Early Pay-in 1208160015841564 1100001100019678 2024067",
+                    "Buy/Cr": "0.000",
+                    "Sell/Dr": "1.000",
+                    "Balance": "0.215"
+                },
+                {
+                    "Date": "2024-04-15",
+                    "Transaction Description": "CA 1208160015841564",
+                    "Buy/Cr": "0.001",
+                    "Sell/Dr": "0.000",
+                    "Balance": "0.216"
+                }
+            ]
+        },
+        {
+            "ISIN": "INF732E01045",
+            "Symbol": "NIP ETNFNXT50JURBEES",
+            "Opening balance": "4.000",
+            "Closing balance": "4.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-08",
+                    "Transaction Description": "Early Pay-in 1208160015841564 1100001100019678 2024067",
+                    "Buy/Cr": "1.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "4.000"
+                },
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Early Pay-in 1208160015841564 1100001100019678 2024067",
+                    "Buy/Cr": "0.000",
+                    "Sell/Dr": "1.000",
+                    "Balance": "4.000"
+                },
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Early Pay-in 1208160015841564 1100001100019678 2024067",
+                    "Buy/Cr": "0.000",
+                    "Sell/Dr": "1.000",
+                    "Balance": "3.000"
+                },
+                {
+                    "Date": "2024-04-15",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024070",
+                    "Buy/Cr": "1.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "4.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INE982J01020",
+            "Symbol": "ONE97 COMMUNIC-EQ1/-",
+            "Opening balance": "42.000",
+            "Closing balance": "44.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-12",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024069",
+                    "Buy/Cr": "2.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "44.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INE092A01019",
+            "Symbol": "TATA CHEMICALS EQ",
+            "Opening balance": "0.000",
+            "Closing balance": "2.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024067",
+                    "Buy/Cr": "2.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "2.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INE467B01029",
+            "Symbol": "TATA CONSULTANCY-1/-",
+            "Opening balance": "0.000",
+            "Closing balance": "1.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024067",
+                    "Buy/Cr": "1.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "1.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INE192A01025",
+            "Symbol": "TATA CONSUMER-EQ1/-",
+            "Opening balance": "0.000",
+            "Closing balance": "3.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024067",
+                    "Buy/Cr": "3.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "3.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INE155A01022",
+            "Symbol": "TATA MOTORS-EQ RS2/-",
+            "Opening balance": "0.000",
+            "Closing balance": "2.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024067",
+                    "Buy/Cr": "2.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "2.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INE245A01021",
+            "Symbol": "TATA POWER -EQ 1/-",
+            "Opening balance": "0.000",
+            "Closing balance": "6.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024067",
+                    "Buy/Cr": "6.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "6.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INE081A01020",
+            "Symbol": "TATA STEEL-EQ1/-",
+            "Opening balance": "0.000",
+            "Closing balance": "15.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024067",
+                    "Buy/Cr": "15.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "15.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INE280A01028",
+            "Symbol": "TITAN COMPANY-EQ 1/-",
+            "Opening balance": "0.000 0.000",
+            "Closing balance": "10.000 10.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024068",
+                    "Buy/Cr": "2.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "2.000"
+                },
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024067",
+                    "Buy/Cr": "3.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "3.000"
+                },
+                {
+                    "Date": "2024-04-15",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024070",
+                    "Buy/Cr": "2.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "2.000"
+                },
+                {
+                    "Date": "2024-04-16",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024071",
+                    "Buy/Cr": "2.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "2.000"
+                },
+                {
+                    "Date": "2024-04-22",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024074",
+                    "Buy/Cr": "1.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "1.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INE226A01021",
+            "Symbol": "VOLTAS - EQ RE 1/-",
+            "Opening balance": "2.000",
+            "Closing balance": "10.000 10.000",
+            "Transactions": [
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024067",
+                    "Buy/Cr": "2.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "2.000"
+                }
+            ]
+        },
+        {
+            "ISIN": "INF0R8F01034",
+            "Symbol": "ZEROD NIRL ETF D-GRW",
+            "Opening balance": "0.000",
+            "Closing balance": "34.0",
+            "Transactions": [
+                {
+                    "Date": "2024-04-10",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024067",
+                    "Buy/Cr": "17.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "17.000"
+                },
+                {
+                    "Date": "2024-04-15",
+                    "Transaction Description": "Transactions within DP 1208160015841564 1208160000000061 2024070",
+                    "Buy/Cr": "17.000",
+                    "Sell/Dr": "0.000",
+                    "Balance": "34.000"
+                }
+            ]
+        }
+    ],
+    "Holding as on 2024-04-30": {
+        "List": [
+            {
+                "ISIN Code": "INE742F01042",
+                "Company Name": "ADANI PORTS -EQ 2/-",
+                "Curr. Bal": "6.000",
+                "Free Bal": "6.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "1324.850",
+                "Value": "7949.100"
+            },
+            {
+                "ISIN Code": "IN0020200146",
+                "Company Name": "GOI SGB 29076 2028",
+                "Curr. Bal": "10.000",
+                "Free Bal": "10.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "7100.000",
+                "Value": "71000.000"
+            },
+            {
+                "ISIN Code": "INE040A01034",
+                "Company Name": "HDFC BANK-EQ1/-",
+                "Curr. Bal": "68.000",
+                "Free Bal": "68.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "1517.050",
+                "Value": "103159.400"
+            },
+            {
+                "ISIN Code": "INE053A01029",
+                "Company Name": "INDIAN HOTEL-EQ RE",
+                "Curr. Bal": "4.000",
+                "Free Bal": "4.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "576.750",
+                "Value": "2307.000"
+            },
+            {
+                "ISIN Code": "INE009A01021",
+                "Company Name": "INFOSYS LTD-EQ 5/-",
+                "Curr. Bal": "4.000",
+                "Free Bal": "4.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "1421.100",
+                "Value": "5684.400"
+            },
+            {
+                "ISIN Code": "INE154A01025",
+                "Company Name": "ITC LIMITED -EQ RE.1",
+                "Curr. Bal": "50.000",
+                "Free Bal": "50.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "435.600",
+                "Value": "21780.000"
+            },
+            {
+                "ISIN Code": "INF204KB17I5",
+                "Company Name": "NIP ETF GOLD BEES",
+                "Curr. Bal": "62.000",
+                "Free Bal": "62.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "60.880",
+                "Value": "3774.560"
+            },
+            {
+                "ISIN Code": "INF204KB14I2",
+                "Company Name": "NIP ETF NIFTY50 BEES",
+                "Curr. Bal": "10.000",
+                "Free Bal": "10.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "250.150",
+                "Value": "2501.500"
+            },
+            {
+                "ISIN Code": "INF732E01037",
+                "Company Name": "NIP ETNF1D RTLIQBEES",
+                "Curr. Bal": "0.216",
+                "Free Bal": "0.216",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "1000.010",
+                "Value": "216.002"
+            },
+            {
+                "ISIN Code": "INF732E01045",
+                "Company Name": "NIP ETNFNXT50JURBEES",
+                "Curr. Bal": "4.000",
+                "Free Bal": "4.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "689.850",
+                "Value": "2759.400"
+            },
+            {
+                "ISIN Code": "INE982J01020",
+                "Company Name": "ONE97 COMMUNIC- EQ1/-",
+                "Curr. Bal": "44.000",
+                "Free Bal": "44.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "372.350",
+                "Value": "16383.400"
+            },
+            {
+                "ISIN Code": "INE092A01019",
+                "Company Name": "TATA CHEMICALS EQ",
+                "Curr. Bal": "2.000",
+                "Free Bal": "2.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "1072.300",
+                "Value": "2144.600"
+            },
+            {
+                "ISIN Code": "INE467B01029",
+                "Company Name": "TATA CONSULTANCY 1/-",
+                "Curr. Bal": "1.000",
+                "Free Bal": "1.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "3822.600",
+                "Value": "3822.600"
+            },
+            {
+                "ISIN Code": "INE192A01025",
+                "Company Name": "TATA CONSUMER- EQ1/-",
+                "Curr. Bal": "3.000",
+                "Free Bal": "3.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "1107.850",
+                "Value": "3323.550"
+            },
+            {
+                "ISIN Code": "INE155A01022",
+                "Company Name": "TATA MOTORS-EQ RS2/-",
+                "Curr. Bal": "2.000",
+                "Free Bal": "2.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "1007.850",
+                "Value": "2015.700"
+            },
+            {
+                "ISIN Code": "INE245A01021",
+                "Company Name": "TATA POWER -EQ 1/-",
+                "Curr. Bal": "6.000",
+                "Free Bal": "6.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "449.100",
+                "Value": "2694.600"
+            },
+            {
+                "ISIN Code": "INE081A01020",
+                "Company Name": "TATA STEEL-EQ1/-",
+                "Curr. Bal": "15.000",
+                "Free Bal": "15.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "164.950",
+                "Value": "2474.250"
+            },
+            {
+                "ISIN Code": "INE280A01028",
+                "Company Name": "TITAN COMPANY-EQ 1/-",
+                "Curr. Bal": "10.000",
+                "Free Bal": "10.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "3589.150",
+                "Value": "35891.500"
+            },
+            {
+                "ISIN Code": "INE226A01021",
+                "Company Name": "VOLTAS - EQ RE 1/-",
+                "Curr. Bal": "2.000",
+                "Free Bal": "2.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "1475.000",
+                "Value": "2950.000"
+            },
+            {
+                "ISIN Code": "INF0R8F01034",
+                "Company Name": "ZEROD NIRL ETF D- GRW",
+                "Curr. Bal": "34.000",
+                "Free Bal": "34.000",
+                "Pldg. Bal": "0.000",
+                "Earmark Bal": "0.000",
+                "Demat": "0.000",
+                "Remat": "0.000",
+                "Lockin": "0.000",
+                "Rate": "101.930",
+                "Value": "3465.620"
+            }
+        ],
+        "Total": {
+            "Curr. Bal": "337.216",
+            "Free Bal": "337.216",
+            "Pldg. Bal": "0.000",
+            "Earmark Bal": "0.000",
+            "Demat": "0.000",
+            "Remat": "0.000",
+            "Lockin": "0.000",
+            "Rate": "",
+            "Value": "296297.182"
+        }
+    }
+}
