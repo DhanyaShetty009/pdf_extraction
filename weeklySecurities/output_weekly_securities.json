@@ -1,0 +1,89 @@
+{
+    "Ledger Code": "HG9197",
+    "Statement of Accounts of Securities/Commodities for the period": "2024-05-27 to 2024-06-01",
+    "Statement of Account reflecting Clear Balance as on the last date of statement": [
+        {
+            "Transaction Date": "2024-05-29",
+            "Execution Date": "2024-05-29",
+            "Clearing Corporation / Clearing Member": "NSE Clearing Limited / Zerodha Broking Ltd",
+            "Segment Type": "EQ",
+            "Unique Client Code (UCC)": "HG9197",
+            "Back Office Client Code": "HG9197",
+            "Client Name": "SRIKANTH VISWA VANKAYALA",
+            "Client PAN": "ADFPV2032B",
+            "Member Demat Account No.": {
+                "To": "",
+                "From": "1208160000000061"
+            },
+            "Counterparty Demat Account No.": {
+                "To": "1208160015841564",
+                "From": ""
+            },
+            "Settlement No.": "2024099",
+            "ISIN Code": "INE364U01010",
+            "Scrip Name": "ADANI GREEN ENERG-EQ",
+            "Quantity Delivered (Qty.)": "0.0",
+            "Quantity Received (Qty.)": "40.0",
+            "Balance(Qty.)": "40.0",
+            "Trf.Ref. No.": "792188",
+            "Transaction Type": "Transactions within DP",
+            "Purpose": "payout"
+        },
+        {
+            "Transaction Date": "2024-05-31",
+            "Execution Date": "2024-05-31",
+            "Clearing Corporation / Clearing Member": "NSE Clearing Limited / Zerodha Broking Ltd",
+            "Segment Type": "EQ",
+            "Unique Client Code (UCC)": "HG9197",
+            "Back Office Client Code": "HG9197",
+            "Client Name": "SRIKANTH VISWA VANKAYALA",
+            "Client PAN": "ADFPV2032B",
+            "Member Demat Account No.": {
+                "To": "",
+                "From": "1208160000000061"
+            },
+            "Counterparty Demat Account No.": {
+                "To": "1208160015841564",
+                "From": ""
+            },
+            "Settlement No.": "2024101",
+            "ISIN Code": "INE280A01028",
+            "Scrip Name": "TITAN COMPANY-EQ 1/-",
+            "Quantity Delivered (Qty.)": "0.0",
+            "Quantity Received (Qty.)": "30.0",
+            "Balance(Qty.)": "71.0",
+            "Trf.Ref. No.": "183690",
+            "Transaction Type": "Transactions within DP",
+            "Purpose": "payout"
+        }
+    ],
+    "Pending Obligations as on 2024-06-01 (as on Saturday)": [
+        {
+            "Transaction Date": "2024-05-31",
+            "Execution Date": "NA",
+            "Clearing Corporation / Clearing Member": "NSE Clearing Limited / Zerodha Broking Ltd",
+            "Segment Type": "EQ",
+            "Unique Client Code (UCC)": "HG9197",
+            "Back Office Client Code": "HG9197",
+            "Client Name": "SRIKANTH VISWA VANKAYALA",
+            "Client PAN": "ADFPV2032B",
+            "Member Demat Account No.": {
+                "To": "",
+                "From": "1208160000000061"
+            },
+            "Counterparty Demat Account No.": {
+                "To": "1208160015841564",
+                "From": ""
+            },
+            "Settlement No.": "2024102",
+            "ISIN Code": "INE002A01018",
+            "Scrip Name": "RELIANCE INDUS-EQ",
+            "Quantity Delivered (Qty.)": "10.000",
+            "Quantity Received (Qty.)": "0",
+            "Balance(Qty.)": "-10.000",
+            "Trf.Ref. No.": "NA",
+            "Transaction Type": "NA",
+            "Purpose": "payin"
+        }
+    ]
+}
